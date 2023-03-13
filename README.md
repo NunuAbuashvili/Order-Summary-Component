@@ -10,8 +10,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Solution URL here](https://github.com/Nuca29/Order-Summary-Component.git)
-- Live Site URL: [Live site URL here](https://nuca29.github.io/Order-Summary-Component/)
+- Solution URL: [Solution URL here](https://github.com/NunuAbuashvili/Order-Summary-Component.git)
+- Live Site URL: [Live site URL here](https://nunuabuashvili.github.io/Order-Summary-Component/)
 
 ### Built with
 
